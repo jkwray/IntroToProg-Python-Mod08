@@ -1,0 +1,8 @@
+soccer ball, 35.00
+basketball, 45.00
+cleats, 90.00
+goalie gloves, 50.00
+baseball bat, 25.00
+sneakers, 250.00
+baseball, 15.00
+jersey, 120.00
